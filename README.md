@@ -2,6 +2,6 @@
 
 ## Overview
 
-This repository contains reconstructed components based on the behavior and structure of **Sulfoxide.exe**.
+Yep, after waiting for so long, I finally did it, I released the Sulfoxide.exe source code (accurate)
 
-It focuses on understanding the internal logic, extracting concepts (such as bytebeat/audio behavior), and documenting findings in a clean and accessible way.
+I hope ppl won't skid from this, but I honestly don't care anymore, credits to WiPet though!
