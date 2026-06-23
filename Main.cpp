@@ -1,1 +1,1 @@
-//Your main here
+//Your winmain here
