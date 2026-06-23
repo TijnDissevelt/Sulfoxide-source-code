@@ -24,7 +24,7 @@ This repository does not claim ownership of the original proprietary software.
 
 All original work contained in this repository (including documentation, analysis, reconstructed code, and modifications) is contributed by:
 
-* Tijn Dissevelt
+* TijnAG07
 * Fellow collaborators and contributors
 
 ## Important Notice
@@ -46,7 +46,7 @@ You are free to:
 You should:
 
 * Credit **WiPet (Whypet)** as the creator of Sulfoxide
-* Credit **Tijn Dissevelt and collaborators** for reverse engineering and documentation work
+* Credit **TijnAG07 and collaborators** for reverse engineering and documentation work
 
 ## Disclaimer
 
